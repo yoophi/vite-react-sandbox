@@ -1,1 +1,1 @@
-# vite-react-sandbox
+# vitejs-react-sandbox
